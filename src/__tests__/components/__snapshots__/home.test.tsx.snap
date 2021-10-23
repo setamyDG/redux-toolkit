@@ -239,7 +239,9 @@ exports[`Home should render Home component 1`] = `
         class="c1"
       >
         <a
-          href="123"
+          href="https://github.com/setamyDG/"
+          rel="noopener noreferrer"
+          target="_blank"
         >
           <svg
             aria-hidden="true"
@@ -262,7 +264,9 @@ exports[`Home should render Home component 1`] = `
         class="c1"
       >
         <a
-          href="123"
+          href="https://www.linkedin.com/in/daniel--gola/"
+          rel="noopener noreferrer"
+          target="_blank"
         >
           <svg
             aria-hidden="true"
