@@ -10,6 +10,7 @@
       "@views": ["views/index"],
       "@utils/*": ["utils/*"],
       "@constants/*": ["constants/*"],
+      "@constants": ["constants/index"],
       "@redux/*": ["redux/*"]
     }
   }
