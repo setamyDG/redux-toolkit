@@ -22,7 +22,7 @@ module.exports = {
         '^@views(.*)$': '<rootDir>/src/views$1',
         '^@utils(.*)$': '<rootDir>/src/utils$1',
         '^@constants(.*)$': '<rootDir>/src/constants$1',
-        '^@redux(.*)$': '<rootDir>/src/redux$1',
+        '^@redux(/.*)$': '<rootDir>/src/redux$1',
       },
     },
   },

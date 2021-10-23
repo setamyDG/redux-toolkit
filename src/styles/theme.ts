@@ -1,5 +1,4 @@
 export default {
-  fontFamily: 'Lato, sans-serif',
   typography: {
     useNextVariants: true,
   },
@@ -9,7 +8,8 @@ export default {
     gray: '#d2d2d2',
     lightGray: '#f7f7f7',
     darkGray: '#a9a9a9',
-    blue: '#2D8EFF',
+    blue: 'rgba(0, 255, 255, 0.67)',
+    red: 'rgba(255, 0, 0, 0.67)',
   },
   boxShadow: {
     dp_1: '0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px -1px rgba(0, 0, 0, 0.12), 0px 1px 3px rgba(0, 0, 0, 0.2)',
