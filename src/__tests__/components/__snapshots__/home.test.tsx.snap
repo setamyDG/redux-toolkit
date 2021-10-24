@@ -288,7 +288,7 @@ exports[`Home should render Home component 1`] = `
       <p
         class="c2"
       >
-        Redux Toolkit with React Typescript
+        Redux Toolkit with React Typescript.
       </p>
       <span
         class="c3"
