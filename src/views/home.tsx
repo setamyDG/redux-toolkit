@@ -65,7 +65,7 @@ const Home: FC = () => {
     <Section>
       <Container>
         <Socials />
-        <Title>Redux Toolkit with React Typescript</Title>
+        <Title>Redux Toolkit with React Typescript.</Title>
         <Subtitle>Test it now.</Subtitle>
         <ButtonsWrapper>
           <Column>
